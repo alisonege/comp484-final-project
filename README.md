@@ -1,6 +1,6 @@
 # Neural Style Transfer Project
-This project is based off of the neural style transfer approach mentioned in [Medium blogpost](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398). <br/>
-[Click here](https://colab.research.google.com/drive/1ay0SRFCaG7iEH8I9i87fVYC38humAUux?usp=sharing) to access our Google Colab notebook.
+This project is based off of the neural style transfer approach described in [Medium blogpost](https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398). <br/>
+[Click here](https://colab.research.google.com/drive/1PldsRDwhkMEQf1r-_LTpsful60bPtGQ4?usp=sharing) to access my Google Colab notebook.
 
 ## Setup (for MacOS)
 Need Python 3.6 or below. <br/>
